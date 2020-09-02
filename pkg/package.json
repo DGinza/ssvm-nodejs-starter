@@ -1,0 +1,13 @@
+{
+  "name": "ssvm_nodejs_starter",
+  "collaborators": [
+    "ubuntu"
+  ],
+  "version": "0.1.0",
+  "files": [
+    "ssvm_nodejs_starter_bg.wasm",
+    "ssvm_nodejs_starter.js",
+    "ssvm_nodejs_starter_bg.js"
+  ],
+  "main": "ssvm_nodejs_starter.js"
+}
